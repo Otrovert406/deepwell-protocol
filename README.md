@@ -9,7 +9,7 @@
 
 ## 快速开始
 1. 读 [协议草案]（./docs/PROTOCOL）
-2. 看 [案例集]（./docs/CASE）
+2. 看 [案例集]（docs/CASE）
 3. 用 [工具包](./docs/TOOLKIT） 开始自己的记录
 
 ## 参与贡献
