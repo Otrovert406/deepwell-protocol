@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+/lib/
 lib64/
 parts/
 sdist/
@@ -216,3 +216,38 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Flutter / Dart
+app/.dart_tool/
+app/.packages
+app/.pub/
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.metadata
+app/ios/Pods/
+app/ios/.symlinks/
+app/android/.gradle/
+app/android/app/build/
+app/android/local.properties
+app/web/manifest.json
+app/macos/Pods/
+app/macos/.symlinks/
+app/linux/flutter/ephemeral/
+app/windows/flutter/ephemeral/
+app/.idea/
+*.iml
+
+# Go
+server/vendor/
+server/.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
